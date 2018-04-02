@@ -1,4 +1,4 @@
-﻿# Thunder Download Manager - Privacy Policy
+﻿# Thunder Download Manager(迅雷 UWP) - Privacy Policy
 
 ## Information collected 
 Nagisa does not collect any information. However it does provide you access to 
