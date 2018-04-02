@@ -2,7 +2,7 @@
 
 ## Information collected 
 Nagisa does not collect any information. However it does provide you access to 
-files and folders on your file system. Additionally, the Windows Store and 
+files and folders on your device. Additionally, the Windows Store and 
 Windows app host collects data on usage, for example, who bought/used the app 
 and crash reports. If you open any files or links in the app that go to other
 websites you will need to look at their privacy policy. 
